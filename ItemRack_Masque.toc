@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: ItemRack: Masque
+## Notes: Masque support for ItemRack
+## Author: Sammy James (Pawkette)
+## Dependencies: Masque, ItemRack
+## Version: 0.1.0
+
+main.lua
