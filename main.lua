@@ -1,4 +1,5 @@
---- 
+--- Copyright 2020 Sammy James
+
 local ItemRack = ItemRack
 assert(ItemRack, "ItemRack required")
 
